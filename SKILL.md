@@ -141,6 +141,21 @@ Polaris is itself an investigation. The decisive hypothesis is:
 
 > Does Polaris cause a different and better attention, focus, or discard decision than would probably have happened without it?
 
+### Decision deltas
+
+A decision delta is an observable change in attention, focus, or discard that occurs after using Polaris. It is telemetry relevant to the self-evaluation hypothesis, not proof of causality or objective improvement.
+
+Record a decision delta when there is a concrete decision change worth preserving. Keep the record minimal and distinguish what is known from what is inferred. The useful fields are:
+
+- decision — what attention decision was made
+- Polaris effect — how the decision changed or was constrained
+- evidence — what directly supports the observation
+- counterfactual — what would likely have happened without Polaris, if known
+- classification — `captured`, `constrained`, `redirected`, `discarded`, `escalated`, or `unknown`
+- confidence — how strong the attribution is
+
+Do not introduce numerical effectiveness metrics or additional instrumentation from a single case. Accumulate real decision deltas first; only then consider whether a further change to the operational model is justified.
+
 Operational telemetry may record evidence relevant to this question, but telemetry is not automatically evidence about the user's external world.
 
 ## Red flags
@@ -152,3 +167,4 @@ Operational telemetry may record evidence relevant to this question, but telemet
 - About to mark a line stalled because it is old → stop and identify the actual convergence failure.
 - About to treat an inference as evidence → label provenance.
 - About to turn research into tasks → stop; execution belongs elsewhere.
+- About to add effectiveness metrics after one decision delta → accumulate more real cases first.
