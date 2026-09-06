@@ -1,29 +1,34 @@
 ---
 id: work
 state: now
-title: What is the right professional trajectory for my current work?
+title: How do I capitalize my AI advantage into greater value, scope, and autonomy?
 ---
 
 ## Question
 
-What professional position and direction best compound from the work I am doing now, and what evidence would justify changing course?
+How do I convert my strong practical AI knowledge into greater economic value, scope, and autonomy — inside Summa, in the external market, and eventually through Abell?
 
 ## Why it might matter
 
-My current work is becoming less about individual implementation and more about architecture, AI-assisted engineering, orchestration, and improving how work is organized. The decision is not simply whether the current job is good; it is whether the environment and trajectory are turning that capability into durable professional leverage.
+My current professional value is increasingly differentiated by AI knowledge and the ability to apply it to real engineering and organizational problems, rather than by software implementation alone. The strategic question is no longer simply which career trajectory to choose, but how to capitalize this asset across several complementary paths without prematurely closing options.
 
 ## Evidence
 
-- [user assertion] I currently work as a Staff Software Engineer at Summa Networks.
-- [user assertion] My work has increasingly centered on AI-assisted engineering, operational systems, orchestration, and architecture rather than conventional ticket-driven development.
+- [user assertion] I currently work as a Staff Software Engineer at Summa Networks with approximately €53,000 annual compensation.
+- [user assertion] My knowledge and practical application of AI is a strong asset in the current market.
+- [user assertion] If I position and negotiate well, I believe I can move from approximately €53,000 toward €100,000 compensation.
+- [user assertion] My work increasingly centers on AI-assisted engineering, operational systems, orchestration, and architecture rather than conventional ticket-driven development.
 - [user assertion] I have been building and operating systems such as TAKT and related AI-assisted engineering workflows, using the workplace as a laboratory for these ideas.
-- [user assertion] I want to move toward roles with greater architectural, product, and organizational leverage, with CTO-level trajectory as a meaningful direction.
-- [inference] The differentiator to test is increasingly my ability to design and orchestrate systems of human and AI work, not simply my ability to implement software.
+- [user assertion] I want to capitalize this AI expertise both inside Summa and outside it.
+- [user assertion] A potential external monetization path is freelance/adviser work as an AI expert.
+- [user assertion] Abell is a future business line with Lydia, where a potential role for me is CTO.
+- [inference] Software engineering remains the foundation, but AI engineering, orchestration, and the ability to redesign how human and AI work interact are becoming the stronger professional differentiator.
+- [inference] The relevant strategy is to preserve and increase optionality across employment, external advisory work, and Abell rather than treating them as mutually exclusive choices too early.
 
 ## Uncertainty
 
-It is not yet clear how much of this trajectory is genuinely compounding inside the current environment versus being capability I am building independently of it. It is also uncertain which next professional position would convert that capability into the greatest durable scope, autonomy, and impact.
+It is not yet clear how much additional value Summa can convert into compensation and scope, how the external market will price my AI expertise, or when Abell could support a meaningful CTO role. It is also uncertain which combination of these paths will produce the greatest durable autonomy and upside.
 
 ## Next experiment
 
-Use concrete work outcomes as evidence: identify cases where my architecture, orchestration, or AI-assisted operating model materially changed throughput, quality, organizational capacity, or decision-making. Compare what the current environment enables against what a different role or organization would need to offer for the trajectory to compound further.
+Create evidence of value capture across the three paths: identify measurable outcomes produced through AI, architecture, and orchestration at Summa; test external market demand and pricing for AI expertise through positioning and conversations; and continue developing Abell as a credible future business path. Compare what each path actually offers in compensation, scope, ownership, autonomy, and upside before making a major transition.
