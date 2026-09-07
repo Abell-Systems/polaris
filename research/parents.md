@@ -30,4 +30,4 @@ The key uncertainty is how to support my parents sustainably while continuing to
 
 ## Next experiment
 
-Build a complete picture of the parents' liabilities, income, essential expenses, available assets, and repayment obligations. Then determine what level and form of support materially improves their resilience while preserving my own minimum liquidity and continued capital accumulation.
+Complete the liabilities/income/expense sheet (debts, repayment obligations, essential expenses, assets, income). Determine what level and form of support improves resilience while preserving ≥€20,000 liquidity.

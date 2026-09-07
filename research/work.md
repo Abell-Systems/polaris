@@ -31,4 +31,4 @@ It is not yet clear how much additional value Summa can convert into compensatio
 
 ## Next experiment
 
-Create evidence of value capture across the three paths: identify measurable outcomes produced through AI, architecture, and orchestration at Summa; test external market demand and pricing for AI expertise through positioning and conversations; and continue developing Abell as a credible future business path. Compare what each path actually offers in compensation, scope, ownership, autonomy, and upside before making a major transition.
+Have one real external pricing/market conversation to test how the external market prices AI expertise (positioning, rate, scope). Use that single signal vs Summa/Abell to determine which uncertainty deserves next attention.

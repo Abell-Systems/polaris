@@ -33,3 +33,5 @@ For each useful case, capture only what is known:
 - Confidence: low.
 
 This is the first recorded decision delta. Accumulate a small corpus of real cases before introducing further instrumentation, metrics, or schema.
+
+- 2026-09-07 — Attention/preparation split: a `now` research line does not imply every consequence deserves attention; a concrete dependency can deserve immediate attention without promoting its parent or creating a new line. Established via home/Tina case: house financing remains unresolved research, window protection deserves attention before ~1 month deadline. Reviews should end with "What deserves attention before next review, and what can safely remain unresolved?" — optimizing for exclusion of concurrent good things, not ranking. No schema change. Three `now` experiments tightened to tiny next steps (work: one pricing conversation; parents: liabilities/income sheet; home: window screens + deadline) to produce convergence evidence.

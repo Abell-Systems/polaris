@@ -34,6 +34,4 @@ There is also a near-term practical dependency: the home must be safe for Tina b
 
 ## Next experiment
 
-Establish the realistic purchase envelope from available savings, sustainable financing, transaction costs, and required post-purchase reserve. Then compare that envelope with the actual supply of suitable properties in the preferred areas, prioritizing low-maintenance homes with practical access to services.
-
-In parallel, establish what window protection is required and install the necessary mosquito screens or other secure protection before Tina moves in.
+Immediate attention: arrange/install window protection (mosquito screens or equivalent) for Tina before ~1 month deadline; confirm move-in date. The purchase-envelope vs supply question remains research that can stay unresolved until this dependency is closed or financing changes.
